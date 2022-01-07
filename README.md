@@ -1,7 +1,7 @@
 income_prediction
 ==============================
 
-To predict the income of an individual after getting the input of different details about that individual such as age, workclass, education level, etc.
+To predict the income of an individual after getting the input of different details about that individual such as age, workclass, education level, occupation etc.
 
 Project Organization
 ------------
